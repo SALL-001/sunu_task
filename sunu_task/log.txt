@@ -1,0 +1,26 @@
+Resolving dependencies...
+Downloading packages...
+  flutter_lints 3.0.2 (6.0.0 available)
+  lints 3.0.0 (6.1.0 available)
+  matcher 0.12.18 (0.12.19 available)
+  meta 1.17.0 (1.18.1 available)
+  test_api 0.7.9 (0.7.10 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Launching lib\main.dart on Windows in debug mode...
+Building Windows application...                                    24,1s
+√ Built build\windows\x64\runner\Debug\my_app_25_26.exe
+Syncing files to device Windows...                                 474ms
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on Windows is available at: http://127.0.0.1:56884/OVy5EkP_OA8=/
+The Flutter DevTools debugger and profiler on Windows is available at: http://127.0.0.1:56884/OVy5EkP_OA8=/devtools/?uri=ws://127.0.0.1:56884/OVy5EkP_OA8=/ws
+Lost connection to device.
